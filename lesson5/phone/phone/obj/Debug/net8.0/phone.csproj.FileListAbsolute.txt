@@ -1,0 +1,14 @@
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\bin\Debug\net8.0\phone.exe
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\bin\Debug\net8.0\phone.deps.json
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\bin\Debug\net8.0\phone.runtimeconfig.json
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\bin\Debug\net8.0\phone.dll
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\bin\Debug\net8.0\phone.pdb
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.AssemblyInfoInputs.cache
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.AssemblyInfo.cs
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.csproj.CoreCompileInputs.cache
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.dll
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\refint\phone.dll
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.pdb
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\phone.genruntimeconfig.cache
+C:\Users\Tamar\Desktop\כיתה ו\שיעורי בית\C#\lesson5\phone\phone\obj\Debug\net8.0\ref\phone.dll
